@@ -4,7 +4,7 @@ Sou um profissional apaixonado por detalhes, acredito que a melhor forma de abor
 
 Com mais de 6 anos de experiência em Customer Experience, vi de perto a importância dos dados, de entender o contexto do negócio, de tomar decisões baseadas em fatos. E me apaixonei por isso. 
 
-Estou em processo de transição de carreira para a área de dados procurando minha primeira oportunidade como Analista Júnior. Me chama Linkedin, seja 
+Estou em processo de transição de carreira para a área de dados procurando minha primeira oportunidade como Analista Júnior. 
 
 # Skills
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
