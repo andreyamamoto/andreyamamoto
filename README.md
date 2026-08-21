@@ -1,6 +1,6 @@
 # Olá! Meu nome é André 
 
-Sou um profissional apaixonado por detalhes, acredito que a melhor forma de abordar as tarefas, desafios e projetos é interpretando-as com clareza e confiança. 
+Sou um profissional apaixonado por detalhes, acredito que a melhor forma de abordar as tarefas, desafios e projetos é interpretando-os com clareza e confiança. 
 
 Com mais de 6 anos de experiência em Customer Experience, vi de perto a importância dos dados, de entender o contexto do negócio, de tomar decisões baseadas em fatos. E me apaixonei por isso. 
 
