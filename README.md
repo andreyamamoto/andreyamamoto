@@ -1,4 +1,5 @@
-<img width="1200" height="675" alt="Wallpaper" src="https://github.com/user-attachments/assets/b8d065be-6d5a-419f-8b63-b85b23e7e1ad" />
+<img width="1289" height="322" alt="Wallpaper Github" src="https://github.com/user-attachments/assets/43c085a8-5d7f-4ce4-bf6d-dc26c8371a2a" />
+
 
 # Olá! Meu nome é André 
 
