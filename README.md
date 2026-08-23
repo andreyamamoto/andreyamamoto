@@ -1,3 +1,5 @@
+<img width="1200" height="675" alt="Wallpaper" src="https://github.com/user-attachments/assets/b8d065be-6d5a-419f-8b63-b85b23e7e1ad" />
+
 # Olá! Meu nome é André 
 
 Sou um profissional apaixonado por detalhes, acredito que a melhor forma de abordar as tarefas, desafios e projetos é interpretando-os com clareza e confiança. 
